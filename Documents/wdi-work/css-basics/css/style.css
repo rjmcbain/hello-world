@@ -1,0 +1,50 @@
+
+p{
+	background: azure;
+}
+
+div {
+	color: orange;
+}
+
+div {
+	border: 1px solid black;
+	margin: 7px 7px;
+}
+
+.comments {
+	font-weight: bold;
+	color: green;
+}
+
+#dolphin {
+	font-weight: italic;
+	color: blue;
+}
+
+#gray {
+	color: gray;
+}
+
+.bird {
+	color: blue;
+	background-color: lightgray;
+}
+
+.mammal {
+	color: pink;
+	background-color: lavenderblush;
+	}
+
+.fish {
+	color: orange;
+	background-color: lightyellow;
+}
+
+#black {
+	color: black;
+}
+
+#gold {
+	color: color;
+}

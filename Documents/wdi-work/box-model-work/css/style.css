@@ -1,0 +1,42 @@
+#livingRoom {
+    height: 800px;
+    width: 800px;
+    background-color: gray;
+    position: relative;
+}
+#box1 {
+    background-color: red;
+    height: 200px;
+    width: 100px;
+    border: 10px solid black;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#box2 {
+    background-color: blue;
+    height: 200px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#box3 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+}
+#box4 {
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+   right: 0;
+
+}
